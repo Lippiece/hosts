@@ -1,0 +1,31 @@
+! Title: lippiece's hosts blocklist for T-Bank
+! Description: Unstable and opinionated list of T-Bank services.
+
+! Analytics
+||api-statist.tinkoff.ru^$important
+
+! Bloat
+||api-invest-gw.tinkoff.ru^$important
+||api.tinkoffinsurance.ru^$important
+||api-invest-gw.t-bank-app.ru^$important
+||api-invest.tinkoff.ru^$important
+||stories-rtb.t-bank-app.ru^$important
+||muhu-assistant.t-bank-app.ru^$important
+||shortcuts.tinkoff.ru^$important
+||tinkoffinsurance.ru.siteindices.com^$important
+||broker-api.tinkoffinsurance.ru^$important
+||myauto.t-bank-app.ru^$important
+||api-stories.t-bank-app.ru^$important
+||business.tinkoff^$important
+||api-common-gw.tinkoff.ru^$important
+||webim-tknzr.tinkoff.ru^$important
+||ms-loyalty-api.tinkoff.ru^$important
+||api-dd.tinkoff.ru^$important
+! "Pulse" posts
+||feed.tinkoff.ru^$important
+
+! Uncategorised
+||business.tinkoff.ru^$important
+||my-home.tinkoff.ru^$important
+||cfg.tinkoff.ru^$important
+||tmsg.tbank.ru^$important
