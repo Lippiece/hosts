@@ -21,11 +21,25 @@
 ||webim-tknzr.tinkoff.ru^$important
 ||ms-loyalty-api.tinkoff.ru^$important
 ||api-dd.tinkoff.ru^$important
-! "Pulse" posts
-||feed.tinkoff.ru^$important
-
-! Uncategorised
-||business.tinkoff.ru^$important
 ||my-home.tinkoff.ru^$important
-||cfg.tinkoff.ru^$important
-||tmsg.tbank.ru^$important
+
+! "Pulse"
+||feed.tinkoff.ru^$important
+||social-api.tbank.ru^$important
+||lifestyle.tinkoff.ru^$important
+||lifestyle.tbank.ru^$important
+||tsocial.tinkoff.ru^$important
+||cdn-ec.vp.t-pulse.ru^$important
+||feed-media.t-static.ru^$important
+||lifestyle.t-bank-app.ru^$important
+||mobile-lifestyle-static-prod.cdn-tinkoff.ru^$important
+||pulse-image-avatar.cdn-tinkoff.ru^$important
+
+! Etc
+||api-stories.tbank.ru^$important
+||shopping.t-bank-app.ru^$important
+||brands-prod.cdn-tinkoff.ru^$important
+||mobile-bnpl-prod.cdn-tinkoff.ru^$important
+||api-stories.tinkoff.ru^$important
+||cdn.vp.tinkoff.ru^$important
+||dco2.tinkoff.ru^$important
