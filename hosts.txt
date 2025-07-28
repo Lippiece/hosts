@@ -38,7 +38,6 @@
 ! Etc
 ||api-stories.tbank.ru^$important
 ||shopping.t-bank-app.ru^$important
-||brands-prod.cdn-tinkoff.ru^$important
 ||mobile-bnpl-prod.cdn-tinkoff.ru^$important
 ||api-stories.tinkoff.ru^$important
 ||cdn.vp.tinkoff.ru^$important
