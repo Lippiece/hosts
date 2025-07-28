@@ -5,9 +5,7 @@
 ||api-statist.tinkoff.ru^$important
 
 ! Bloat
-||api-invest-gw.tinkoff.ru^$important
 ||api.tinkoffinsurance.ru^$important
-||api-invest-gw.t-bank-app.ru^$important
 ||api-invest.tinkoff.ru^$important
 ||stories-rtb.t-bank-app.ru^$important
 ||muhu-assistant.t-bank-app.ru^$important
