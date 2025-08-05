@@ -15,7 +15,6 @@
 ||myauto.t-bank-app.ru^$important
 ||api-stories.t-bank-app.ru^$important
 ||business.tinkoff^$important
-||api-common-gw.tinkoff.ru^$important
 ||webim-tknzr.tinkoff.ru^$important
 ||ms-loyalty-api.tinkoff.ru^$important
 ||api-dd.tinkoff.ru^$important
