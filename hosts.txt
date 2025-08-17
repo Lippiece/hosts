@@ -39,3 +39,5 @@
 ||api-stories.tinkoff.ru^$important
 ||cdn.vp.tinkoff.ru^$important
 ||dco2.tinkoff.ru^$important
+||csc.tbank.ru^$important
+||baf-client-api.t-bank-app.ru^$important
