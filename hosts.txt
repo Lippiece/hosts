@@ -19,6 +19,11 @@
 ||ms-loyalty-api.tinkoff.ru^$important
 ||api-dd.tinkoff.ru^$important
 ||my-home.tinkoff.ru^$important
+||status-bar-application.tbank.ru^$important
+||tbenefits-api.tinkoff.ru^$important
+||social-api.t-bank-app.ru^$important
+||web2web.tbank.ru^$important
+||hotels.t-bank-app.ru^$important
 
 ! "Pulse"
 ||feed.tinkoff.ru^$important
@@ -31,6 +36,9 @@
 ||lifestyle.t-bank-app.ru^$important
 ||mobile-lifestyle-static-prod.cdn-tinkoff.ru^$important
 ||pulse-image-avatar.cdn-tinkoff.ru^$important
+||pulse-image-post.cdn-tinkoff.ru^$important
+||feed.t-bank-app.ru^$important
+||extranet-cdn.tinkoff.ru^$important
 
 ! Etc
 ||api-stories.tbank.ru^$important
@@ -41,3 +49,4 @@
 ||dco2.tinkoff.ru^$important
 ||csc.tbank.ru^$important
 ||baf-client-api.t-bank-app.ru^$important
+
