@@ -3,6 +3,7 @@
 
 ! Analytics
 ||api-statist.tinkoff.ru^$important
+||fingerprint.t-static.ru^$important
 
 ! Bloat
 ||api.tinkoffinsurance.ru^$important
@@ -24,6 +25,9 @@
 ||social-api.t-bank-app.ru^$important
 ||web2web.tbank.ru^$important
 ||hotels.t-bank-app.ru^$important
+||goods-platform-images-prod-3.t-static.ru^$important
+||goods-platform-images-prod-28.t-static.ru^$important
+||goods-platform-images-prod-1.t-static.ru^$important
 
 ! "Pulse"
 ||feed.tinkoff.ru^$important
